@@ -4,7 +4,7 @@
 const char* ssid = "Nothing2";
 const char* password = "password";
 
-String botToken = "7921523717:AAFKMFDkdkKNqjTXk5jb1BBiX5O_HtYCF4s";
+String botToken = "79215xxxxx:AAFKMFDkdkKNqjTXk5jb1BBiX5O_Htxxxxx"; // Not Actual Token
 String chatID = "8471108590";
 
 #define GAS_DO     27
